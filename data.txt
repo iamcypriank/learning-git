@@ -6,14 +6,5 @@
     {
         username :  "Cyprian",
         id : 2990,
-    },
-    {
-        username :  "Cyprian",
-        id : 2990,
-    },
-    {
-        username :  "Cyprian",
-        id : 2990,
     }
-
 ]
